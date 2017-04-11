@@ -41,6 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Solids\01_Single_Responsibility_Principle.cs" />
+    <Compile Include="Solids\03_Liskov_Substitution_Principle.cs" />
+    <Compile Include="Solids\02_Open_Close_Principle.cs" />
+    <Compile Include="Solids\04_Interface_Segregation_Principle.cs" />
+    <Compile Include="Solids\05_Dependency_Inversion_Principle.cs" />
     <Compile Include="Logger\BasicFileLogger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
