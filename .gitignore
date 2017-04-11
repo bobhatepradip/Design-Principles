@@ -2,4 +2,13 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/obj/Debug
+/Design-Principles-Library/bin/Debug
+/Design-Principles-Library/obj/Debug
+/Design-Principles-Library/obj/Debug
+/Design-Principles-Runner/.vs
+/Design-Principles-Runner/bin/Debug
+/Design-Principles-Runner/packages
+/Design-Principles-Unit-Test-Project/bin/Debug
+/Design-Principles-Unit-Test-Project/obj/Debug
+/.vs
+/.vs
