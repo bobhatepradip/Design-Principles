@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="OOPS Principles\01_Singleton-Pattern.cs" />
     <Compile Include="OOPS Principles\02_Factory_Pattern.cs" />
+    <Compile Include="OOPS Principles\03_Observer-Pattern.cs" />
     <Compile Include="Solids\01_Single_Responsibility_Principle.cs" />
     <Compile Include="Solids\03_Liskov_Substitution_Principle.cs" />
     <Compile Include="Solids\02_Open_Close_Principle.cs" />

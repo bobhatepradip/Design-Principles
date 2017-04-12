@@ -13,7 +13,7 @@
             // If any module is using a Base class then the reference to that Base class can be replaced with a Derived class without affecting the functionality of the module.
             // Or
             // While implementing derived classes, one needs to ensure that, derived classes just extend the functionality of base classes without replacing the functionality of base classes.
-            private class CardGame
+            private abstract class CardGame
             {
             }
 
