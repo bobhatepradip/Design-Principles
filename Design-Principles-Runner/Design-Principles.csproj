@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Design-Principles-Library\Design-Principles-Library.csproj">
+      <Project>{826d2a66-61cb-46c3-8212-eaded3a536b3}</Project>
+      <Name>Design-Principles-Library</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
